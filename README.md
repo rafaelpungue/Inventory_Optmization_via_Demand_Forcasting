@@ -4,3 +4,7 @@ streamlit
 scikit-learn
 numpy
 pandas
+project/
+│── app.py
+│── model.pkl
+│── requirements.txt
